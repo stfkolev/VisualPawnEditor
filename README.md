@@ -44,7 +44,7 @@ connections updating  the whole graph.
 
 ~~~
 git clone git@github.com:stfkolev/visualpawneditor.git
-cd nodeeditor
+cd visualpawneditor
 mkdir build
 cd build
 cmake ..
